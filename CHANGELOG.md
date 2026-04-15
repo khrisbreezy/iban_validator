@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Updated README with correct country count (94 official + 22 experimental).
+
 ## 1.0.1
 
 - Shortened package description to comply with pub.dev requirements.
