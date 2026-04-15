@@ -59,7 +59,7 @@ Add `iban_validator` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  iban_validator: ^1.0.0
+  iban_validator: ^1.0.2
 ```
 
 Then install:
