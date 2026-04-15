@@ -1,10 +1,7 @@
 name: iban_validator
 description: >-
-  A comprehensive IBAN validator for Dart and Flutter. Supports all 89 official
-  ISO 13616 countries plus 22 experimental countries (111 country codes total),
-  covering every nation that uses IBAN for banking transactions — including
-  Eurozone, Middle East, Africa, and the Americas.
-version: 1.0.0
+  A comprehensive IBAN validator for Dart and Flutter. Supports 116 country codes — all official ISO 13616 countries plus experimental African countries. Zero dependencies.
+version: 1.0.1
 homepage: https://github.com/khrisbreezy/iban_validator
 repository: https://github.com/khrisbreezy/iban_validator
 issue_tracker: https://github.com/khrisbreezy/iban_validator/issues

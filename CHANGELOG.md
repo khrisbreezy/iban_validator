@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Shortened package description to comply with pub.dev requirements.
+
 ## 1.0.0
 
 - Initial release.
