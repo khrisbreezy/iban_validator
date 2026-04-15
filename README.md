@@ -21,7 +21,7 @@ IbanValidator.isValid('DE99 3704 0044 0532 0130 00'); // false ✗ bad checksum
 
 ## Features
 
-- ✅ **116 country codes** — 89 official ISO 13616 countries + 22 experimental (full list below)
+- ✅ **116 country codes** — 94 official ISO 13616 countries + 22 experimental (full list below)
 - ✅ **Typed error enum** — know exactly why an IBAN failed, not just that it did
 - ✅ **Rich country metadata** — name, IBAN length, SEPA membership, and a sample IBAN per country
 - ✅ **Input-tolerant** — strips spaces and handles lowercase automatically
